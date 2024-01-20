@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JesusEs1312
-- 👀 I’m interested in Develop Backend  and Web Services
-- 🌱 I’m currently learning Spring WebFlux
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in Web develop
+- 🌱 I’m currently learning Typescript and Angular
+- 💞️ I’m looking to collaborate on BBVA México
 - 📫 How to reach me Email: estrada.jesus1312@gmail.com
 
 <!---
